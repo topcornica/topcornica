@@ -19,4 +19,4 @@ Here are some ideas to get you started:
   
   🍀 This is my world to tell about my practice or my activity. I want to show about my development.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topcornica)](https://github.com/anuraghazra/github-readme-stats)
