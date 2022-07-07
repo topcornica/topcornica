@@ -18,3 +18,5 @@ Here are some ideas to get you started:
   I'm currently studying at CheE @ Science, Chula and 42 Bangkok. I'm interest in Big Data and currently learning C, Python and R. I like german culture and german language. Ich komme aus Thailand 🤣. I love Taylor Swift song 🥰~.
   
   🍀 This is my world to tell about my practice or my activity. I want to show about my development.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topconica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
